@@ -1,4 +1,4 @@
-# FOR WHITELISTERS AND WHATNOT WHO DON'T KNOW HOW TO ADD HWIDS:
+# FOR WHITELISTERS:
 
 1. Create a comma before creating a enterbreak, but this step can be skipped if there's already a comma. For example:
 
